@@ -1,0 +1,33 @@
+* {box-sizing: border-box;}
+.parent_cont_d {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: mistyrose;
+    top: 8%;
+    left: 3%;
+    right: 3%;
+    bottom: 3%;
+    display: block;
+    position: absolute;
+}
+
+.row1_d {
+    background-color: burlywood;
+    position: relative;
+    padding:1%;
+    height: 10%;
+    
+}
+
+.navlbl {
+    background-color: aquamarine;
+    position: relative;
+    margin: auto;
+    width: 100%;
+}
+
+.navitem {
+    background-color: aquamarine;
+    position: relative;
+    margin: auto;
+    width: 100%;
+}
